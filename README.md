@@ -4,9 +4,9 @@
 
 
 ---
-Welcome to my Github. I'm **Sparsh Kumar**, also known as **`Alpha`** – a versatile tech enthusiast poised to make my mark in the world of software development and design.
+Welcome to my Github. I'm **Sparsh**, also known as **`Alpha`** – a versatile tech enthusiast poised to make my mark in the world of software development and design.
 
-🎓 B.Tech in Computer Science, Graphic Era University (Expected 2025)
+🎓 B.Tech in Computer Science & Engineering, Graphic Era University
 
 💡 **Expertise Spectrum:**
 - Full Stack Development
@@ -46,14 +46,8 @@ Welcome to my Github. I'm **Sparsh Kumar**, also known as **`Alpha`** – a vers
 - Passionate about roles that challenge conventional thinking.
 - Excited to bring fresh perspectives to innovative projects.
 
-<div style="text-align: center;">
   <div style="display: inline-block; margin: 0 10px;">
-    <a href="https://twitter.com/sparshxalpha" target="blank">
-      <img src="https://img.shields.io/twitter/follow/sparshxalpha?logo=twitter&style=for-the-badge" alt="sparshxalpha" />
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 0 10px;">
-    <a href="https://www.linkedin.com/in/sparsh-kumar-8893b6321/" target="blank">
+    <a href="http://www.linkedin.com/in/sparshalpha" target="blank">
       <img src="https://img.shields.io/badge/-Sparsh Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
   </div>
@@ -69,7 +63,6 @@ Welcome to my Github. I'm **Sparsh Kumar**, also known as **`Alpha`** – a vers
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -102,12 +95,12 @@ Welcome to my Github. I'm **Sparsh Kumar**, also known as **`Alpha`** – a vers
 ---
 <h3 align="center"> Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/sparshxalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sparshxalpha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sparsh-kumar-8893b6321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sparsh-kumar-8893b6321/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/................" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="................" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/sparshxalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sparshxalpha" height="30" width="40" /></a> -->
+<a href="http://www.linkedin.com/in/sparshalpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sparshalpha/" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/................" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="................" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/.............." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt=".............." height="30" width="40" /></a>
 <a href="https://discord.gg/..............." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="..............." height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 ---
