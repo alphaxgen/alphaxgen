@@ -1,15 +1,18 @@
 <h1 align="center">Sparsh Kumar | Innovating at the Digital Frontier</h1>
-<h3 align="center">Full Stack Developer | UI/UX Designer | Creative Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Frontend Specialist | UI/UX Designer | Product Manager | Project Manager </h3>
 
 
 
 ---
-Welcome to my Github. I'm **Sparsh**, also known as **`Alpha`** – a versatile tech enthusiast poised to make my mark in the world of software development and design.
+They call me Alpha — not just a name, but a mindset.
+Welcome to my playground — where product thinking meets code, and ideas don’t just live in Figma or docs… they ship.
 
 🎓 B.Tech in Computer Science & Engineering, Graphic Era University
 
 💡 **Expertise Spectrum:**
-- Full Stack Development
+- Frontend Development
+- Product Management
+- Project Management
 - Intuitive UI/UX Design
 - AI & Machine Learning Integration
 - Cybersecurity Solutions
@@ -23,7 +26,7 @@ Welcome to my Github. I'm **Sparsh**, also known as **`Alpha`** – a versatile 
    - Tech: Python, OpenCV, Twilio, Machine Learning
 3. **Secure File Encryptor**
    - Engineering robust data protection with cutting-edge encryption.
-   - Tech: Java, AES Encryption
+   - Tech: C++, AES Encryption
 
 🏆 **Achievements & Leadership:**
 - YOUNITE Hackathon Champion.
@@ -38,12 +41,12 @@ Welcome to my Github. I'm **Sparsh**, also known as **`Alpha`** – a versatile 
 - Blend analytical thinking with creative innovation.
 
 📚 **Current Learning Pursuits:**
-- Exploring advanced AI applications in web development.
+- Exploring advanced AI applications / AI agents (code & no-code) / MCP Servers.
 - Delving into emerging UI/UX design trends..
 
 💼 **Seeking Opportunities:**
 - Eager to contribute to forward-thinking tech initiatives.
-- Passionate about roles that challenge conventional thinking.
+- Passionate about roles that challenge conventional thinking and bring out this Alpha in totality.
 - Excited to bring fresh perspectives to innovative projects.
 
   <div style="display: inline-block; margin: 0 10px;">
