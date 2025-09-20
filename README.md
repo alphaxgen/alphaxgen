@@ -4,50 +4,11 @@
 
 
 ---
-They call me Alpha — not just a name, but a mindset.
-Welcome to my playground — where product thinking meets code, and ideas don’t just live in Figma or docs… they ship.
+They call me Alpha - not just a name, but a mindset.
+Welcome to my playground - where product thinking meets code, and ideas don’t just live in Figma or docs… they ship and hell they ship FAST.
 
 🎓 B.Tech in Computer Science & Engineering, Graphic Era University
 
-💡 **Expertise Spectrum:**
-- Frontend Development
-- Product Management
-- Project Management
-- Intuitive UI/UX Design
-- AI & Machine Learning Integration
-- Cybersecurity Solutions
-
-🚀 **Innovative Projects:**
-1. **AI Language Teacher**
-   - Reimagining language learning through AI-driven immersive experiences.
-   - Tech: Next.js, React Three Fiber, Azure Speech SDK, GPT
-2. **Intrusion Detection System**
-   - Crafting intelligent cybersecurity solutions for real-time threat mitigation.
-   - Tech: Python, OpenCV, Twilio, Machine Learning
-3. **Secure File Encryptor**
-   - Engineering robust data protection with cutting-edge encryption.
-   - Tech: C++, AES Encryption
-
-🏆 **Achievements & Leadership:**
-- YOUNITE Hackathon Champion.
-- Multiple Hackathon Recognitions.
-- Academic Excellence Awards.
-- Roles: House Captain, Sports Club President, Discipline Committee Head, Team Lead.
-
-🌟 **What I Bring to the Table:**
-- Rapidly assimilate new technologies and methodologies.
-- Thrive in dynamic, collaborative environments.
-- Transform complex concepts into user-friendly solutions.
-- Blend analytical thinking with creative innovation.
-
-📚 **Current Learning Pursuits:**
-- Exploring advanced AI applications / AI agents (code & no-code) / MCP Servers.
-- Delving into emerging UI/UX design trends..
-
-💼 **Seeking Opportunities:**
-- Eager to contribute to forward-thinking tech initiatives.
-- Passionate about roles that challenge conventional thinking and bring out this Alpha in totality.
-- Excited to bring fresh perspectives to innovative projects.
 
   <div style="display: inline-block; margin: 0 10px;">
     <a href="http://www.linkedin.com/in/sparshalpha" target="blank">
