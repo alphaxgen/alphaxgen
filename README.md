@@ -1,5 +1,5 @@
 <h1 align="center">Sparsh Kumar | Innovating at the Digital Frontier</h1>
-<h3 align="center">Full Stack Developer | Frontend Specialist | UI/UX Designer | Product Manager | Project Manager </h3>
+<h3 align="center">Full Stack Developer | Frontend Specialist | AI Engineer | Product Manager | Project Manager </h3>
 
 
 
