@@ -48,12 +48,6 @@ Welcome to my playground - where product thinking meets code, and ideas don’t 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-<a href="https://www.leetcode.com/.............." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt=".............." height="30" width="40" /></a>
-<a href="https://discord.gg/..............." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="..............." height="30" width="40" /></a>
-</p> -->
-
 
 ---
 <p align="center"><i>~ where technology meets imagination, that's where I thrive.</i></p>
