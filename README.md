@@ -9,14 +9,6 @@ Welcome to my playground - where product thinking meets code, and ideas don’t 
 
 🎓 B.Tech in Computer Science & Engineering, Graphic Era University
 
-
-  <div style="display: inline-block; margin: 0 10px;">
-    <a href="http://www.linkedin.com/in/sparshalpha" target="blank">
-      <img src="https://img.shields.io/badge/-Sparsh Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </a>
-  </div>
-</div>
-
 ---
 <h3 align="center"># 💻 Tech Stack</h3>
 
