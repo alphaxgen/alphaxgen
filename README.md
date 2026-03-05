@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Sparsh Kumar — Alpha"/>
+  <img src="header.svg" width="100%" alt="Sparsh aka Alpha"/>
 </p>
 
 <br>
@@ -12,11 +12,11 @@
 
 ```yaml
 alias    : Alpha
-role     : Product Strategist  ·  AI Founder  ·  Full-Stack Engineer
+role     : Product Strategist  ·  AI Founder  ·  Full-Stack/Forward Deploy Engineer
 thesis   : Systems that compound while you sleep.
 edge     : Finding the one decision quietly bleeding your revenue dry.
 status   : Building AI products/startups  [stealth]
-education: B.Tech CSE — Graphic Era University
+education: B.Tech CSE
 ```
 
 <br>
@@ -29,7 +29,7 @@ education: B.Tech CSE — Graphic Era University
 
 > 🎯 &nbsp; I find the one decision quietly bleeding your revenue dry.
 
-> ⚙️ &nbsp; I build systems that run empires — autonomously.
+> ⚙️ &nbsp; I build systems that run empires - autonomously.
 
 > 👁️ &nbsp; I see moves most people don't. Before they happen.
 
@@ -116,7 +116,7 @@ Stealth mode. Watching.
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alphaxgen/alphaxgen/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Globe" width="100%"/>
+  <img src="https://raw.githubusercontent.com/alphaxgen/alphaxgen/output/profile-night-rainbow.svg" alt="3D Contribution Globe" width="100%"/>
 </p>
 
 <br>
