@@ -1,0 +1,87 @@
+<svg viewBox="0 0 900 210" xmlns="http://www.w3.org/2000/svg" width="900" height="210">
+  <defs>
+    <pattern id="scanlines" x="0" y="0" width="900" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="900" height="1" fill="#222222"/>
+    </pattern>
+    <clipPath id="g-top">
+      <rect x="0" y="35" width="900" height="28"/>
+    </clipPath>
+    <clipPath id="g-mid">
+      <rect x="0" y="78" width="900" height="36"/>
+    </clipPath>
+    <clipPath id="g-bot">
+      <rect x="0" y="115" width="900" height="28"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="210" fill="#080808"/>
+  <rect width="900" height="210" fill="url(#scanlines)" opacity="0.15"/>
+
+  <!-- Left gold accent bar -->
+  <rect x="0" y="0" width="4" height="210" fill="#FFD700">
+    <animate attributeName="opacity" values="1;0.4;1;1;1" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Glitch slice - cyan -->
+  <text clip-path="url(#g-top)" x="450" y="135" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace" font-size="86" font-weight="900"
+    fill="#00e5ff" opacity="0.75">
+    SPARSH KUMAR
+    <animate attributeName="x"
+      values="450;460;440;450;450;450;450;455;450;450;450"
+      keyTimes="0;0.05;0.1;0.15;0.3;0.5;0.6;0.65;0.7;0.9;1"
+      dur="5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Glitch slice - magenta/red -->
+  <text clip-path="url(#g-mid)" x="450" y="135" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace" font-size="86" font-weight="900"
+    fill="#ff1744" opacity="0.65">
+    SPARSH KUMAR
+    <animate attributeName="x"
+      values="450;440;458;450;450;450;450;444;450;450;450"
+      keyTimes="0;0.05;0.1;0.15;0.3;0.5;0.6;0.65;0.7;0.9;1"
+      dur="5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Glitch slice - bottom cyan -->
+  <text clip-path="url(#g-bot)" x="450" y="135" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace" font-size="86" font-weight="900"
+    fill="#00e5ff" opacity="0.5">
+    SPARSH KUMAR
+    <animate attributeName="x"
+      values="450;450;450;453;450;450;462;450;450;450;450"
+      keyTimes="0;0.05;0.1;0.15;0.3;0.5;0.6;0.65;0.7;0.9;1"
+      dur="5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Main text — white -->
+  <text x="450" y="135" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace" font-size="86" font-weight="900"
+    fill="#FFFFFF">
+    SPARSH KUMAR
+    <animate attributeName="opacity"
+      values="1;1;0.95;1;1;0.92;1;1;1"
+      dur="5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Gold underline — draws in -->
+  <rect x="450" y="150" width="0" height="3" fill="#FFD700">
+    <animate attributeName="width" values="0;480" dur="1.2s" fill="freeze"/>
+    <animate attributeName="x" values="450;210" dur="1.2s" fill="freeze"/>
+  </rect>
+
+  <!-- Subtitle — fades in -->
+  <text x="450" y="188" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace" font-size="15"
+    fill="#FFD700" letter-spacing="10" opacity="0">
+    THEY CALL ME ALPHA
+    <animate attributeName="opacity" values="0;0;0;1" keyTimes="0;0.4;0.6;1" dur="2.5s" fill="freeze"/>
+  </text>
+
+  <!-- Right gold accent bar -->
+  <rect x="896" y="0" width="4" height="210" fill="#FFD700">
+    <animate attributeName="opacity" values="1;1;0.4;1;1" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
