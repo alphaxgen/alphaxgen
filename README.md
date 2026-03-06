@@ -136,7 +136,7 @@ education: B.Tech CSE
 **`//  OPEN TO`**
 
 <p align="left">
-&nbsp;&nbsp;→ &nbsp;<strong>Founder's Office</strong> &nbsp;&nbsp;→ &nbsp;<strong>Product Manager</strong> &nbsp;&nbsp;→ &nbsp;<strong>AI Engineer</strong> &nbsp;&nbsp;→ &nbsp;<strong>Software Engineer</strong> &nbsp;&nbsp;→ &nbsp;<strong>Project Manager</strong> &nbsp;&nbsp;→ &nbsp;<strong>Strategic Consulting</strong>
+&nbsp;&nbsp;| &nbsp;<strong>Founder's Office</strong> &nbsp;&nbsp;| &nbsp;<strong>Product Manager</strong> &nbsp;&nbsp;| &nbsp;<strong>AI Engineer</strong> &nbsp;&nbsp;| &nbsp;<strong>Software Engineer</strong> &nbsp;&nbsp;| &nbsp;<strong>Project Manager</strong> &nbsp;&nbsp;| &nbsp;<strong>Strategic Consulting</strong>
 </p>
 
 ```
