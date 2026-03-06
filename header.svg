@@ -1,87 +1,90 @@
-<svg viewBox="0 0 900 210" xmlns="http://www.w3.org/2000/svg" width="900" height="210">
+<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" width="900" height="220">
   <defs>
-    <pattern id="scanlines" x="0" y="0" width="900" height="4" patternUnits="userSpaceOnUse">
-      <rect x="0" y="0" width="900" height="1" fill="#222222"/>
-    </pattern>
-    <clipPath id="g-top">
-      <rect x="0" y="35" width="900" height="28"/>
-    </clipPath>
-    <clipPath id="g-mid">
-      <rect x="0" y="78" width="900" height="36"/>
-    </clipPath>
-    <clipPath id="g-bot">
-      <rect x="0" y="115" width="900" height="28"/>
-    </clipPath>
+    <style>
+      @keyframes underline-grow {
+        0%   { stroke-dashoffset: 600; }
+        100% { stroke-dashoffset: 0; }
+      }
+      @keyframes fade-in {
+        0%   { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      @keyframes gold-pulse {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0.4; }
+      }
+      @keyframes scan {
+        0%   { transform: translateY(-4px); opacity: 0; }
+        10%  { opacity: 1; }
+        90%  { opacity: 1; }
+        100% { transform: translateY(224px); opacity: 0; }
+      }
+    </style>
   </defs>
 
-  <!-- Background -->
-  <rect width="900" height="210" fill="#080808"/>
-  <rect width="900" height="210" fill="url(#scanlines)" opacity="0.15"/>
+  <rect width="900" height="220" fill="#080808"/>
 
-  <!-- Left gold accent bar -->
-  <rect x="0" y="0" width="4" height="210" fill="#FFD700">
-    <animate attributeName="opacity" values="1;0.4;1;1;1" dur="4s" repeatCount="indefinite"/>
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="55" x2="900" y2="55" stroke="#ffffff" stroke-width="0.3" opacity="0.04"/>
+  <line x1="0" y1="165" x2="900" y2="165" stroke="#ffffff" stroke-width="0.3" opacity="0.04"/>
+  <line x1="220" y1="0" x2="220" y2="220" stroke="#ffffff" stroke-width="0.3" opacity="0.04"/>
+  <line x1="680" y1="0" x2="680" y2="220" stroke="#ffffff" stroke-width="0.3" opacity="0.04"/>
+
+  <!-- Scanline sweep -->
+  <rect x="0" y="0" width="900" height="2" fill="rgba(255,215,0,0.06)">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,220" dur="5s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Glitch slice - cyan -->
-  <text clip-path="url(#g-top)" x="450" y="135" text-anchor="middle"
-    font-family="'Courier New', Courier, monospace" font-size="86" font-weight="900"
-    fill="#00e5ff" opacity="0.75">
+  <!-- Corner brackets — TL -->
+  <polyline points="0,30 0,0 30,0" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.8"/>
+  <!-- Corner brackets — TR -->
+  <polyline points="870,0 900,0 900,30" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.8"/>
+  <!-- Corner brackets — BL -->
+  <polyline points="0,190 0,220 30,220" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.8"/>
+  <!-- Corner brackets — BR -->
+  <polyline points="870,220 900,220 900,190" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.8"/>
+
+  <!-- Top left label -->
+  <text x="38" y="18" font-family="'Courier New', monospace" font-size="9" fill="#FFD700" letter-spacing="3" opacity="0.7">@ALPHAXGEN</text>
+  <!-- Top right label -->
+  <text x="862" y="18" text-anchor="end" font-family="'Courier New', monospace" font-size="9" fill="#FFD700" letter-spacing="3" opacity="0.7">PRODUCT · AI · CODE</text>
+
+  <!-- Main title — ultra bold -->
+  <text x="450" y="126" text-anchor="middle"
+    font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif"
+    font-size="76" font-weight="900"
+    fill="#FFFFFF" letter-spacing="2">
     SPARSH KUMAR
-    <animate attributeName="x"
-      values="450;460;440;450;450;450;450;455;450;450;450"
-      keyTimes="0;0.05;0.1;0.15;0.3;0.5;0.6;0.65;0.7;0.9;1"
-      dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze"/>
   </text>
 
-  <!-- Glitch slice - magenta/red -->
-  <text clip-path="url(#g-mid)" x="450" y="135" text-anchor="middle"
-    font-family="'Courier New', Courier, monospace" font-size="86" font-weight="900"
-    fill="#ff1744" opacity="0.65">
-    SPARSH KUMAR
-    <animate attributeName="x"
-      values="450;440;458;450;450;450;450;444;450;450;450"
-      keyTimes="0;0.05;0.1;0.15;0.3;0.5;0.6;0.65;0.7;0.9;1"
-      dur="5s" repeatCount="indefinite"/>
-  </text>
+  <!-- Gold underline — animated draw -->
+  <line x1="155" y1="141" x2="745" y2="141"
+    stroke="#FFD700" stroke-width="2.5"
+    stroke-dasharray="590" stroke-dashoffset="590">
+    <animate attributeName="stroke-dashoffset" values="590;0" dur="0.9s" begin="0.5s" fill="freeze"/>
+  </line>
 
-  <!-- Glitch slice - bottom cyan -->
-  <text clip-path="url(#g-bot)" x="450" y="135" text-anchor="middle"
-    font-family="'Courier New', Courier, monospace" font-size="86" font-weight="900"
-    fill="#00e5ff" opacity="0.5">
-    SPARSH KUMAR
-    <animate attributeName="x"
-      values="450;450;450;453;450;450;462;450;450;450;450"
-      keyTimes="0;0.05;0.1;0.15;0.3;0.5;0.6;0.65;0.7;0.9;1"
-      dur="5s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- Main text — white -->
-  <text x="450" y="135" text-anchor="middle"
-    font-family="'Courier New', Courier, monospace" font-size="86" font-weight="900"
-    fill="#FFFFFF">
-    SPARSH KUMAR
-    <animate attributeName="opacity"
-      values="1;1;0.95;1;1;0.92;1;1;1"
-      dur="5s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- Gold underline — draws in -->
-  <rect x="450" y="150" width="0" height="3" fill="#FFD700">
-    <animate attributeName="width" values="0;480" dur="1.2s" fill="freeze"/>
-    <animate attributeName="x" values="450;210" dur="1.2s" fill="freeze"/>
-  </rect>
-
-  <!-- Subtitle — fades in -->
-  <text x="450" y="188" text-anchor="middle"
-    font-family="'Courier New', Courier, monospace" font-size="15"
-    fill="#FFD700" letter-spacing="10" opacity="0">
+  <!-- Subtitle -->
+  <text x="450" y="183" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-size="13" fill="#FFD700" letter-spacing="9" opacity="0">
     THEY CALL ME ALPHA
-    <animate attributeName="opacity" values="0;0;0;1" keyTimes="0;0.4;0.6;1" dur="2.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" dur="1.8s" fill="freeze"/>
   </text>
 
-  <!-- Right gold accent bar -->
-  <rect x="896" y="0" width="4" height="210" fill="#FFD700">
-    <animate attributeName="opacity" values="1;1;0.4;1;1" dur="4s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Gold pulse dots -->
+  <circle cx="130" cy="141" r="3" fill="#FFD700">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="770" cy="141" r="3" fill="#FFD700">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.5s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Bottom label -->
+  <text x="450" y="212" text-anchor="middle"
+    font-family="'Courier New', monospace" font-size="8"
+    fill="#333" letter-spacing="5">
+    GRAPHIC ERA UNIVERSITY · INDIA · AI FOUNDER
+  </text>
 </svg>
