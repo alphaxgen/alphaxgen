@@ -16,7 +16,7 @@ role     : Product Strategist  ·  AI Founder  ·  Full-Stack Engineer
 thesis   : Systems that compound while you sleep.
 edge     : "Finding the one decision quietly bleeding your revenue dry."
 status   : Building AI products/startups  [stealth]
-education: B.Tech CSE — Graphic Era University
+education: B.Tech CSE
 ```
 
 <br>
