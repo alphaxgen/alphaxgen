@@ -28,9 +28,7 @@ education: B.Tech CSE — Graphic Era University
 **`//  HOW I OPERATE`**
 
 > 🎯 &nbsp; I find the one decision quietly bleeding your revenue dry.
-
-> ⚙️ &nbsp; I build systems that run empires — autonomously.
-
+> ⚙️ &nbsp; I build systems that run empires - autonomously.
 > 👁️ &nbsp; I see moves most people don't. Before they happen.
 
 <br>
@@ -60,25 +58,22 @@ education: B.Tech CSE — Graphic Era University
 
 <p align="center">
 
-**AI IDEs & Agents**<br/>
+
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Antigravity_IDE-111111?style=for-the-badge&logo=atom&logoColor=FFD700"/>
   <img src="https://img.shields.io/badge/OpenClaw-FF4500?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<br/><br/>
 
-**AI Models & APIs**<br/>
   <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=FFD700"/>
 
-<br/><br/>
 
-**Languages**<br/>
+
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -87,9 +82,9 @@ education: B.Tech CSE — Graphic Era University
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<br/><br/>
 
-**Frontend**<br/>
+
+
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -99,17 +94,17 @@ education: B.Tech CSE — Graphic Era University
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
-<br/><br/>
 
-**Backend & APIs**<br/>
+
+
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 
-<br/><br/>
 
-**Databases**<br/>
+
+
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -117,18 +112,14 @@ education: B.Tech CSE — Graphic Era University
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<br/><br/>
 
-**Cloud & DevOps**<br/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<br/><br/>
 
-**Tools & Design**<br/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -149,7 +140,7 @@ education: B.Tech CSE — Graphic Era University
 </p>
 
 ```
-Not chasing roles — creating leverage. Open to the right room.
+Not chasing roles - creating leverage. Open to the right room.
 ```
 
 <br>
