@@ -54,7 +54,7 @@
     font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif"
     font-size="76" font-weight="900"
     fill="#FFFFFF" letter-spacing="2">
-    alpha
+    alphaxgen
     <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze"/>
   </text>
 
