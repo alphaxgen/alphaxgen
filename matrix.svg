@@ -1,0 +1,130 @@
+<svg viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg" width="900" height="160">
+  <defs>
+    <style>
+      .col { font-family: 'Courier New', monospace; font-size: 11px; }
+      @keyframes fall0  { 0%{opacity:0;transform:translateY(-160px)} 10%{opacity:.9} 80%{opacity:.6} 100%{opacity:0;transform:translateY(160px)} }
+      @keyframes fall1  { 0%{opacity:0;transform:translateY(-160px)} 15%{opacity:.8} 75%{opacity:.5} 100%{opacity:0;transform:translateY(160px)} }
+      @keyframes fall2  { 0%{opacity:0;transform:translateY(-160px)} 5%{opacity:1}  85%{opacity:.7} 100%{opacity:0;transform:translateY(160px)} }
+      .s0{animation:fall0 2.1s linear infinite;animation-delay:0s}
+      .s1{animation:fall1 2.8s linear infinite;animation-delay:0.3s}
+      .s2{animation:fall2 2.4s linear infinite;animation-delay:0.7s}
+      .s3{animation:fall0 3.1s linear infinite;animation-delay:1.1s}
+      .s4{animation:fall1 2.6s linear infinite;animation-delay:0.5s}
+      .s5{animation:fall2 2.9s linear infinite;animation-delay:1.4s}
+      .s6{animation:fall0 2.3s linear infinite;animation-delay:0.9s}
+      .s7{animation:fall1 3.3s linear infinite;animation-delay:0.2s}
+      .s8{animation:fall2 2.7s linear infinite;animation-delay:1.6s}
+      .s9{animation:fall0 2.5s linear infinite;animation-delay:0.6s}
+      .s10{animation:fall1 2.2s linear infinite;animation-delay:1.8s}
+      .s11{animation:fall2 3.0s linear infinite;animation-delay:0.4s}
+      .s12{animation:fall0 2.8s linear infinite;animation-delay:1.2s}
+      .s13{animation:fall1 2.4s linear infinite;animation-delay:0.8s}
+      .s14{animation:fall2 3.2s linear infinite;animation-delay:1.9s}
+      .s15{animation:fall0 2.6s linear infinite;animation-delay:0.1s}
+      .s16{animation:fall1 2.9s linear infinite;animation-delay:1.5s}
+      .s17{animation:fall2 2.3s linear infinite;animation-delay:1.0s}
+      .s18{animation:fall0 3.1s linear infinite;animation-delay:0.7s}
+      .s19{animation:fall1 2.7s linear infinite;animation-delay:1.3s}
+      .s20{animation:fall2 2.5s linear infinite;animation-delay:2.0s}
+      .s21{animation:fall0 2.2s linear infinite;animation-delay:0.4s}
+      .s22{animation:fall1 3.0s linear infinite;animation-delay:1.7s}
+      .s23{animation:fall2 2.8s linear infinite;animation-delay:0.6s}
+      .s24{animation:fall0 2.4s linear infinite;animation-delay:1.1s}
+      .s25{animation:fall1 3.2s linear infinite;animation-delay:0.3s}
+      .s26{animation:fall2 2.6s linear infinite;animation-delay:1.4s}
+      .s27{animation:fall0 2.9s linear infinite;animation-delay:0.9s}
+      .s28{animation:fall1 2.3s linear infinite;animation-delay:1.6s}
+      .s29{animation:fall2 3.1s linear infinite;animation-delay:0.5s}
+      .s30{animation:fall0 2.7s linear infinite;animation-delay:2.1s}
+      .s31{animation:fall1 2.5s linear infinite;animation-delay:1.2s}
+      .s32{animation:fall2 2.2s linear infinite;animation-delay:0.8s}
+      .s33{animation:fall0 3.0s linear infinite;animation-delay:1.8s}
+      .s34{animation:fall1 2.8s linear infinite;animation-delay:0.2s}
+      .s35{animation:fall2 2.4s linear infinite;animation-delay:1.0s}
+      .s36{animation:fall0 3.3s linear infinite;animation-delay:0.6s}
+      .s37{animation:fall1 2.6s linear infinite;animation-delay:1.5s}
+      .s38{animation:fall2 2.9s linear infinite;animation-delay:0.3s}
+      .s39{animation:fall0 2.3s linear infinite;animation-delay:1.9s}
+      .s40{animation:fall1 3.1s linear infinite;animation-delay:0.7s}
+      .s41{animation:fall2 2.7s linear infinite;animation-delay:1.3s}
+      .s42{animation:fall0 2.5s linear infinite;animation-delay:0.5s}
+      .s43{animation:fall1 2.2s linear infinite;animation-delay:2.0s}
+      .s44{animation:fall2 3.0s linear infinite;animation-delay:1.1s}
+      .s45{animation:fall0 2.8s linear infinite;animation-delay:0.4s}
+      .s46{animation:fall1 2.4s linear infinite;animation-delay:1.6s}
+      .s47{animation:fall2 3.2s linear infinite;animation-delay:0.9s}
+      .s48{animation:fall0 2.6s linear infinite;animation-delay:1.4s}
+      .s49{animation:fall1 2.3s linear infinite;animation-delay:0.1s}
+      .s50{animation:fall2 2.9s linear infinite;animation-delay:1.7s}
+      .s51{animation:fall0 3.1s linear infinite;animation-delay:0.8s}
+      .s52{animation:fall1 2.7s linear infinite;animation-delay:2.2s}
+      .s53{animation:fall2 2.5s linear infinite;animation-delay:1.2s}
+      .s54{animation:fall0 2.2s linear infinite;animation-delay:0.6s}
+      .s55{animation:fall1 3.0s linear infinite;animation-delay:1.9s}
+      .s56{animation:fall2 2.8s linear infinite;animation-delay:0.3s}
+      .s57{animation:fall0 2.4s linear infinite;animation-delay:1.5s}
+      .s58{animation:fall1 3.3s linear infinite;animation-delay:0.7s}
+      .s59{animation:fall2 2.6s linear infinite;animation-delay:1.0s}
+      .gold{fill:#FFD700}
+      .dim{fill:#1a4d1a}
+      .bright{fill:#00ff41}
+    </style>
+  </defs>
+  <rect width="900" height="160" fill="#000"/>
+
+  <!-- Gold top border -->
+  <rect x="0" y="0" width="900" height="2" fill="#FFD700" opacity="0.8"/>
+
+  <!-- Matrix columns — each is a group of characters at x position -->
+  <!-- Using text elements that animate downward. Characters are dim green, occasional bright/gold -->
+  <g class="col dim s0"><text x="12" y="0">A</text><text x="12" y="14">X</text><text x="12" y="28">7</text><text x="12" y="42">Ω</text><text x="12" y="56" class="gold">1</text><text x="12" y="70">B</text><text x="12" y="84">∑</text><text x="12" y="98">9</text><text x="12" y="112">Z</text><text x="12" y="126">3</text><text x="12" y="140" class="bright">K</text><text x="12" y="154">α</text></g>
+  <g class="col dim s1"><text x="28" y="0">∞</text><text x="28" y="14">2</text><text x="28" y="28" class="bright">R</text><text x="28" y="42">β</text><text x="28" y="56">6</text><text x="28" y="70">M</text><text x="28" y="84">∏</text><text x="28" y="98" class="gold">4</text><text x="28" y="112">W</text><text x="28" y="126">γ</text><text x="28" y="140">5</text><text x="28" y="154">N</text></g>
+  <g class="col dim s2"><text x="44" y="0">8</text><text x="44" y="14" class="gold">S</text><text x="44" y="28">δ</text><text x="44" y="42">0</text><text x="44" y="56">P</text><text x="44" y="70">∑</text><text x="44" y="84">3</text><text x="44" y="98">H</text><text x="44" y="112" class="bright">λ</text><text x="44" y="126">7</text><text x="44" y="140">Q</text><text x="44" y="154">∞</text></g>
+  <g class="col dim s3"><text x="60" y="0">J</text><text x="60" y="14">φ</text><text x="60" y="28">1</text><text x="60" y="42" class="bright">V</text><text x="60" y="56">ψ</text><text x="60" y="70">9</text><text x="60" y="84">D</text><text x="60" y="98">Ω</text><text x="60" y="112">2</text><text x="60" y="126" class="gold">F</text><text x="60" y="140">π</text><text x="60" y="154">6</text></g>
+  <g class="col dim s4"><text x="76" y="0">α</text><text x="76" y="14">8</text><text x="76" y="28">L</text><text x="76" y="42">β</text><text x="76" y="56" class="gold">0</text><text x="76" y="70">T</text><text x="76" y="84">∏</text><text x="76" y="98">5</text><text x="76" y="112">Y</text><text x="76" y="126">γ</text><text x="76" y="140" class="bright">3</text><text x="76" y="154">C</text></g>
+  <g class="col dim s5"><text x="92" y="0">Σ</text><text x="92" y="14">4</text><text x="92" y="28">E</text><text x="92" y="42">λ</text><text x="92" y="56">7</text><text x="92" y="70" class="bright">G</text><text x="92" y="84">∞</text><text x="92" y="98">1</text><text x="92" y="112">I</text><text x="92" y="126" class="gold">φ</text><text x="92" y="140">8</text><text x="92" y="154">U</text></g>
+  <g class="col dim s6"><text x="108" y="0">2</text><text x="108" y="14">O</text><text x="108" y="28">ψ</text><text x="108" y="42">6</text><text x="108" y="56">K</text><text x="108" y="70">π</text><text x="108" y="84" class="gold">9</text><text x="108" y="98">X</text><text x="108" y="112">α</text><text x="108" y="126">4</text><text x="108" y="140">A</text><text x="108" y="154" class="bright">β</text></g>
+  <g class="col dim s7"><text x="124" y="0">5</text><text x="124" y="14">B</text><text x="124" y="28">Ω</text><text x="124" y="42">3</text><text x="124" y="56" class="bright">N</text><text x="124" y="70">δ</text><text x="124" y="84">0</text><text x="124" y="98">P</text><text x="124" y="112">γ</text><text x="124" y="126">7</text><text x="124" y="140" class="gold">R</text><text x="124" y="154">∑</text></g>
+  <g class="col dim s8"><text x="140" y="0">H</text><text x="140" y="14">λ</text><text x="140" y="28">1</text><text x="140" y="42">S</text><text x="140" y="56">φ</text><text x="140" y="70">8</text><text x="140" y="84">M</text><text x="140" y="98" class="gold">∏</text><text x="140" y="112">2</text><text x="140" y="126">W</text><text x="140" y="140">ψ</text><text x="140" y="154" class="bright">6</text></g>
+  <g class="col dim s9"><text x="156" y="0">D</text><text x="156" y="14">Ω</text><text x="156" y="28">4</text><text x="156" y="42" class="bright">F</text><text x="156" y="56">π</text><text x="156" y="70">9</text><text x="156" y="84">J</text><text x="156" y="98">α</text><text x="156" y="112">3</text><text x="156" y="126" class="gold">V</text><text x="156" y="140">β</text><text x="156" y="154">5</text></g>
+  <g class="col dim s10"><text x="172" y="0">L</text><text x="172" y="14">γ</text><text x="172" y="28">7</text><text x="172" y="42">T</text><text x="172" y="56">∞</text><text x="172" y="70">1</text><text x="172" y="84" class="gold">Y</text><text x="172" y="98">δ</text><text x="172" y="112">6</text><text x="172" y="126">C</text><text x="172" y="140">λ</text><text x="172" y="154" class="bright">2</text></g>
+  <g class="col dim s11"><text x="188" y="0">E</text><text x="188" y="14">φ</text><text x="188" y="28">8</text><text x="188" y="42">G</text><text x="188" y="56">∑</text><text x="188" y="70">0</text><text x="188" y="84">I</text><text x="188" y="98" class="bright">ψ</text><text x="188" y="112">5</text><text x="188" y="126">U</text><text x="188" y="140" class="gold">π</text><text x="188" y="154">9</text></g>
+  <g class="col dim s12"><text x="210" y="0">O</text><text x="210" y="14">Ω</text><text x="210" y="28">3</text><text x="210" y="42">K</text><text x="210" y="56">α</text><text x="210" y="70">7</text><text x="210" y="84" class="gold">A</text><text x="210" y="98">β</text><text x="210" y="112">4</text><text x="210" y="126">X</text><text x="210" y="140">γ</text><text x="210" y="154" class="bright">1</text></g>
+  <g class="col dim s13"><text x="228" y="0">B</text><text x="228" y="14">∏</text><text x="228" y="28">6</text><text x="228" y="42">N</text><text x="228" y="56">δ</text><text x="228" y="70">2</text><text x="228" y="84">P</text><text x="228" y="98" class="gold">λ</text><text x="228" y="112">8</text><text x="228" y="126">R</text><text x="228" y="140">φ</text><text x="228" y="154" class="bright">5</text></g>
+  <g class="col dim s14"><text x="246" y="0">S</text><text x="246" y="14">ψ</text><text x="246" y="28">0</text><text x="246" y="42">H</text><text x="246" y="56">∞</text><text x="246" y="70">9</text><text x="246" y="84" class="bright">M</text><text x="246" y="98">π</text><text x="246" y="112">3</text><text x="246" y="126">W</text><text x="246" y="140" class="gold">Σ</text><text x="246" y="154">7</text></g>
+  <!-- Center columns get gold highlight to spell out "ALPHA" feel -->
+  <g class="col dim s15"><text x="270" y="0">D</text><text x="270" y="14">α</text><text x="270" y="28">5</text><text x="270" y="42">F</text><text x="270" y="56">Ω</text><text x="270" y="70">1</text><text x="270" y="84">J</text><text x="270" y="98" class="bright">β</text><text x="270" y="112">6</text><text x="270" y="126">V</text><text x="270" y="140">γ</text><text x="270" y="154" class="gold">4</text></g>
+  <g class="col dim s16"><text x="292" y="0">L</text><text x="292" y="14">∑</text><text x="292" y="28">8</text><text x="292" y="42">T</text><text x="292" y="56">δ</text><text x="292" y="70">2</text><text x="292" y="84" class="gold">Y</text><text x="292" y="98">λ</text><text x="292" y="112">7</text><text x="292" y="126">C</text><text x="292" y="140">φ</text><text x="292" y="154" class="bright">0</text></g>
+  <g class="col dim s17"><text x="314" y="0">E</text><text x="314" y="14">∏</text><text x="314" y="28">3</text><text x="314" y="42">G</text><text x="314" y="56">ψ</text><text x="314" y="70">9</text><text x="314" y="84">I</text><text x="314" y="98" class="gold">π</text><text x="314" y="112">4</text><text x="314" y="126">U</text><text x="314" y="140">Ω</text><text x="314" y="154" class="bright">6</text></g>
+  <g class="col dim s18"><text x="336" y="0">O</text><text x="336" y="14">α</text><text x="336" y="28">1</text><text x="336" y="42">K</text><text x="336" y="56">β</text><text x="336" y="70">5</text><text x="336" y="84" class="bright">A</text><text x="336" y="98">γ</text><text x="336" y="112">8</text><text x="336" y="126">X</text><text x="336" y="140" class="gold">δ</text><text x="336" y="154">2</text></g>
+  <g class="col dim s19"><text x="358" y="0">B</text><text x="358" y="14">∞</text><text x="358" y="28">7</text><text x="358" y="42">N</text><text x="358" y="56">λ</text><text x="358" y="70">0</text><text x="358" y="84">P</text><text x="358" y="98" class="gold">φ</text><text x="358" y="112">3</text><text x="358" y="126">R</text><text x="358" y="140">ψ</text><text x="358" y="154" class="bright">9</text></g>
+  <!-- Center text overlay -->
+  <rect x="300" y="48" width="300" height="64" fill="rgba(0,0,0,0.85)"/>
+  <text x="450" y="82" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#333" letter-spacing="4">──────────────────────────────</text>
+  <text x="450" y="98" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#FFD700" letter-spacing="6">// built with precision. not templates.</text>
+  <text x="450" y="114" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#333" letter-spacing="4">──────────────────────────────</text>
+
+  <g class="col dim s20"><text x="386" y="0">S</text><text x="386" y="14">∑</text><text x="386" y="28">4</text><text x="386" y="42">H</text><text x="386" y="56">π</text><text x="386" y="70">6</text><text x="386" y="84">M</text><text x="386" y="98" class="bright">Σ</text><text x="386" y="112">1</text><text x="386" y="126">W</text><text x="386" y="140" class="gold">α</text><text x="386" y="154">5</text></g>
+  <g class="col dim s21"><text x="408" y="0">D</text><text x="408" y="14">∏</text><text x="408" y="28">8</text><text x="408" y="42">F</text><text x="408" y="56">β</text><text x="408" y="70">2</text><text x="408" y="84" class="gold">J</text><text x="408" y="98">γ</text><text x="408" y="112">7</text><text x="408" y="126">V</text><text x="408" y="140">δ</text><text x="408" y="154" class="bright">0</text></g>
+  <g class="col dim s22"><text x="510" y="0">L</text><text x="510" y="14">Ω</text><text x="510" y="28">3</text><text x="510" y="42">T</text><text x="510" y="56">λ</text><text x="510" y="70">9</text><text x="510" y="84">Y</text><text x="510" y="98" class="gold">φ</text><text x="510" y="112">4</text><text x="510" y="126">C</text><text x="510" y="140">ψ</text><text x="510" y="154" class="bright">6</text></g>
+  <g class="col dim s23"><text x="532" y="0">E</text><text x="532" y="14">α</text><text x="532" y="28">1</text><text x="532" y="42">G</text><text x="532" y="56">∞</text><text x="532" y="70">5</text><text x="532" y="84" class="bright">I</text><text x="532" y="98">β</text><text x="532" y="112">8</text><text x="532" y="126">U</text><text x="532" y="140" class="gold">π</text><text x="532" y="154">2</text></g>
+  <g class="col dim s24"><text x="554" y="0">O</text><text x="554" y="14">∑</text><text x="554" y="28">7</text><text x="554" y="42">K</text><text x="554" y="56">γ</text><text x="554" y="70">0</text><text x="554" y="84">A</text><text x="554" y="98" class="gold">∏</text><text x="554" y="112">3</text><text x="554" y="126">X</text><text x="554" y="140">δ</text><text x="554" y="154" class="bright">9</text></g>
+  <g class="col dim s25"><text x="576" y="0">B</text><text x="576" y="14">Σ</text><text x="576" y="28">6</text><text x="576" y="42">N</text><text x="576" y="56">λ</text><text x="576" y="70">4</text><text x="576" y="84">P</text><text x="576" y="98" class="bright">φ</text><text x="576" y="112">1</text><text x="576" y="126">R</text><text x="576" y="140" class="gold">ψ</text><text x="576" y="154">7</text></g>
+  <g class="col dim s26"><text x="598" y="0">S</text><text x="598" y="14">Ω</text><text x="598" y="28">2</text><text x="598" y="42">H</text><text x="598" y="56">α</text><text x="598" y="70">8</text><text x="598" y="84" class="gold">M</text><text x="598" y="98">π</text><text x="598" y="112">5</text><text x="598" y="126">W</text><text x="598" y="140">β</text><text x="598" y="154" class="bright">0</text></g>
+  <g class="col dim s27"><text x="620" y="0">D</text><text x="620" y="14">∞</text><text x="620" y="28">9</text><text x="620" y="42">F</text><text x="620" y="56">γ</text><text x="620" y="70">3</text><text x="620" y="84">J</text><text x="620" y="98" class="gold">∑</text><text x="620" y="112">6</text><text x="620" y="126">V</text><text x="620" y="140">δ</text><text x="620" y="154" class="bright">1</text></g>
+  <g class="col dim s28"><text x="642" y="0">L</text><text x="642" y="14">∏</text><text x="642" y="28">4</text><text x="642" y="42">T</text><text x="642" y="56">λ</text><text x="642" y="70">7</text><text x="642" y="84" class="bright">Y</text><text x="642" y="98">φ</text><text x="642" y="112">2</text><text x="642" y="126">C</text><text x="642" y="140" class="gold">ψ</text><text x="642" y="154">8</text></g>
+  <g class="col dim s29"><text x="664" y="0">E</text><text x="664" y="14">Σ</text><text x="664" y="28">0</text><text x="664" y="42">G</text><text x="664" y="56">α</text><text x="664" y="70">5</text><text x="664" y="84">I</text><text x="664" y="98" class="gold">β</text><text x="664" y="112">9</text><text x="664" y="126">U</text><text x="664" y="140">π</text><text x="664" y="154" class="bright">3</text></g>
+  <g class="col dim s30"><text x="686" y="0">O</text><text x="686" y="14">Ω</text><text x="686" y="28">6</text><text x="686" y="42">K</text><text x="686" y="56">γ</text><text x="686" y="70">1</text><text x="686" y="84" class="gold">A</text><text x="686" y="98">δ</text><text x="686" y="112">4</text><text x="686" y="126">X</text><text x="686" y="140">λ</text><text x="686" y="154" class="bright">7</text></g>
+  <g class="col dim s31"><text x="708" y="0">B</text><text x="708" y="14">∑</text><text x="708" y="28">2</text><text x="708" y="42">N</text><text x="708" y="56">φ</text><text x="708" y="70">8</text><text x="708" y="84">P</text><text x="708" y="98" class="bright">ψ</text><text x="708" y="112">3</text><text x="708" y="126">R</text><text x="708" y="140" class="gold">∏</text><text x="708" y="154">0</text></g>
+  <g class="col dim s32"><text x="730" y="0">S</text><text x="730" y="14">α</text><text x="730" y="28">5</text><text x="730" y="42">H</text><text x="730" y="56">β</text><text x="730" y="70">9</text><text x="730" y="84" class="gold">M</text><text x="730" y="98">γ</text><text x="730" y="112">1</text><text x="730" y="126">W</text><text x="730" y="140">π</text><text x="730" y="154" class="bright">6</text></g>
+  <g class="col dim s33"><text x="752" y="0">D</text><text x="752" y="14">Σ</text><text x="752" y="28">7</text><text x="752" y="42">F</text><text x="752" y="56">δ</text><text x="752" y="70">4</text><text x="752" y="84">J</text><text x="752" y="98" class="gold">λ</text><text x="752" y="112">8</text><text x="752" y="126">V</text><text x="752" y="140">φ</text><text x="752" y="154" class="bright">2</text></g>
+  <g class="col dim s34"><text x="774" y="0">L</text><text x="774" y="14">Ω</text><text x="774" y="28">0</text><text x="774" y="42">T</text><text x="774" y="56">ψ</text><text x="774" y="70">6</text><text x="774" y="84" class="bright">Y</text><text x="774" y="98">α</text><text x="774" y="112">3</text><text x="774" y="126">C</text><text x="774" y="140" class="gold">β</text><text x="774" y="154">9</text></g>
+  <g class="col dim s35"><text x="796" y="0">E</text><text x="796" y="14">∏</text><text x="796" y="28">5</text><text x="796" y="42">G</text><text x="796" y="56">γ</text><text x="796" y="70">1</text><text x="796" y="84">I</text><text x="796" y="98" class="gold">δ</text><text x="796" y="112">7</text><text x="796" y="126">U</text><text x="796" y="140">π</text><text x="796" y="154" class="bright">4</text></g>
+  <g class="col dim s36"><text x="818" y="0">O</text><text x="818" y="14">Σ</text><text x="818" y="28">2</text><text x="818" y="42">K</text><text x="818" y="56">λ</text><text x="818" y="70">8</text><text x="818" y="84" class="gold">A</text><text x="818" y="98">φ</text><text x="818" y="112">0</text><text x="818" y="126">X</text><text x="818" y="140">ψ</text><text x="818" y="154" class="bright">5</text></g>
+  <g class="col dim s37"><text x="840" y="0">B</text><text x="840" y="14">α</text><text x="840" y="28">9</text><text x="840" y="42">N</text><text x="840" y="56">β</text><text x="840" y="70">3</text><text x="840" y="84">P</text><text x="840" y="98" class="bright">γ</text><text x="840" y="112">6</text><text x="840" y="126">R</text><text x="840" y="140" class="gold">∞</text><text x="840" y="154">1</text></g>
+  <g class="col dim s38"><text x="862" y="0">S</text><text x="862" y="14">∑</text><text x="862" y="28">4</text><text x="862" y="42">H</text><text x="862" y="56">δ</text><text x="862" y="70">7</text><text x="862" y="84" class="gold">M</text><text x="862" y="98">λ</text><text x="862" y="112">2</text><text x="862" y="126">W</text><text x="862" y="140">φ</text><text x="862" y="154" class="bright">8</text></g>
+  <g class="col dim s39"><text x="884" y="0">D</text><text x="884" y="14">Ω</text><text x="884" y="28">6</text><text x="884" y="42">F</text><text x="884" y="56">ψ</text><text x="884" y="70">0</text><text x="884" y="84">J</text><text x="884" y="98" class="bright">π</text><text x="884" y="112">5</text><text x="884" y="126">V</text><text x="884" y="140" class="gold">α</text><text x="884" y="154">3</text></g>
+
+  <!-- Gold bottom border -->
+  <rect x="0" y="158" width="900" height="2" fill="#FFD700" opacity="0.8"/>
+</svg>
