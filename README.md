@@ -27,9 +27,9 @@ education: B.Tech CSE
 
 **`//  HOW I OPERATE`**
 
-> 🎯 &nbsp; I find the one decision quietly bleeding your revenue dry.
-> ⚙️ &nbsp; I build systems that run empires - autonomously.
-> 👁️ &nbsp; I see moves most people don't. Before they happen.
+> &nbsp; I find the one decision quietly bleeding your revenue dry.
+> &nbsp; I build systems that run empires - autonomously.
+> &nbsp; I see moves most people don't. Before they happen.
 
 <br>
 
@@ -41,9 +41,9 @@ education: B.Tech CSE
 
 <table>
   <tr>
-    <td align="center" width="200"><h2>🏆 19</h2><sub>Beat 50 teams.<br/>First major win.</sub></td>
-    <td align="center" width="200"><h2>📈 21</h2><sub>Advising BCG &<br/>Accenture directly.</sub></td>
-    <td align="center" width="200"><h2>⚔️ 50+</h2><sub>Teams outperformed<br/>in competition.</sub></td>
+    <td align="center" width="200"><h2>🏆 19</h2><sub>Beat 50+ teams.<br/>First major win.</sub></td>
+    <td align="center" width="200"><h2>📈 21</h2><sub>Advising BCG &<br/>Accenture.</sub></td>
+    <td align="center" width="200"><h2>⚔️ 50+</h2><sub>Teams outperformed.<br/>Pure Domination.</sub></td>
     <td align="center" width="200"><h2>🔥 ∞</h2><sub>Still not<br/>satisfied.</sub></td>
   </tr>
 </table>
@@ -140,7 +140,7 @@ education: B.Tech CSE
 </p>
 
 ```
-Not chasing roles - creating leverage. Open to the right room.
+Not chasing roles but ownership - creating leverage. Open to the right room.
 ```
 
 <br>
