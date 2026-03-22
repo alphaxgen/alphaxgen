@@ -41,9 +41,9 @@ education: B.Tech CSE
 
 <table>
   <tr>
-    <td align="center" width="200"><h2>🏆 19</h2><sub>Beat 50+ teams.<br/>First major win.</sub></td>
-    <td align="center" width="200"><h2>📈 21</h2><sub>Advising BCG &<br/>Accenture.</sub></td>
-    <td align="center" width="200"><h2>⚔️ 50+</h2><sub>Teams outperformed.<br/>Pure Domination.</sub></td>
+    <td align="center" width="200"><h2>🏆 @19</h2><sub>Beat 100+ teams.<br/>First major win.</sub></td>
+    <td align="center" width="200"><h2>📈 @21</h2><sub>Advising BCG &<br/>Accenture.</sub></td>
+    <td align="center" width="200"><h2>⚔️ 100+</h2><sub>Teams outperformed.<br/>Pure Domination.</sub></td>
     <td align="center" width="200"><h2>🔥 ∞</h2><sub>Still not<br/>satisfied.</sub></td>
   </tr>
 </table>
